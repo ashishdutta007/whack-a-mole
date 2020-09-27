@@ -1,2 +1,5 @@
 # whack-a-mole
-Created with CodeSandbox
+
+- Initialize game setup
+  - Create game Grid
+  - Set the mole style
