@@ -3,9 +3,17 @@
   justify-content: space-between;
   align-items: center;
 }
+
+.gameGrid {
+  display: flex;
+  flex-flow: row wrap;
+  border: "solid";
+  width: 400px;
+}
+
 .square {
   background-color: aqua;
-  height: 200px;
-  width: 200px;
-  border: 1 px solid black;
+  height: 100px;
+  width: 100px;
+  border: solid;
 }
